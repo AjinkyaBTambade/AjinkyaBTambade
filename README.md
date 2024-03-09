@@ -1,56 +1,24 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D4D03AQGvkaPyVR5nTg/profile-displayphoto-shrink_200_200/0/1700478567316?e=2147483647&v=beta&t=irUfrIRO43aAwu4rIc4ArbxNBPyfo_aEpweIF-rqoOU"  />
-</div>
+# 💫 "Hello, World of Code! 👋 :
+👩‍💻 About Me<br>👋 Hi there! I'm [Ajinkya Tambade].<br><br>🎓 Final Year Undergrad🎓 || IT'24<br>🔭 I’m Currently Learning Full Stack Web Development<br>🌱 I’m Passionate About Learning New Technologies And Exploring Innovative Ideas.<br>💬 I'm Happy To Share My Knowledge.
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ajinkya-tambade-59770b228" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="ajinkyatambade143@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ajinkya-tambade-59770b228) 
 
-###
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=plastic&logo=angularjs&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AjinkyaBTambade&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AjinkyaBTambade&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaBTambade&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h1 align="center">"Hello, World of Code! 👋💻🚀"</h1>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AjinkyaBTambade&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=AjinkyaBTambade&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<h5 align="left">👋 Hi there! I'm [Ajinkya Tambade].<br><br>🎓 Final Year Undergrad🎓 ||  IT'24<br>🔭 I’m Currently Learning Full Stack Web Development <br>🌱 I’m Passionate About Learning New Technologies And Exploring Innovative Ideas.<br>💬 I'm Happy To Share My Knowledge.</h5>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
