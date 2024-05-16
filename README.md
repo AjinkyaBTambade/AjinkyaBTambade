@@ -18,13 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajinkyabtambade&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-
-
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ajinkya-tambade-59770b228)/)
+- [LinkedIn](https://www.linkedin.com/in/ajinkya-tambade-59770b228)
 - Email: ajinkyatambade143@email.com
 
 
