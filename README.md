@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ajinkya-tambade-59770b228)
-- Email: ajinkyatambade143@email.com
 
 
