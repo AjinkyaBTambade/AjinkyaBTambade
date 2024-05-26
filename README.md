@@ -5,10 +5,10 @@
 ## 💻 Skills
 
 - 💻 **Languages:** C#, Java, JavaScript, HTML, CSS
-- ⚙️ **Backend:** .NET, ASP.NET, ASP.NET Core
+- ⚙️ **Backend:** .NET, ASP.NET, ASP.NET Core, .NET Core MVC
 - 🌐 **Frontend:** Angular, React, JQuery
 - 📊 **Databases:** MySQL, SQL Server, MongoDB
-- 📜 **Version Control:** Git
+- 📜 **Version Control:** Github
 - 🛠️ **Tools:** Visual Studio, Visual Studio Code,POSTMAN
 
 # 📊 GitHub Stats:
