@@ -1,11 +1,11 @@
 # "Hello, World of Code! 👋 :
-👩‍💻 About Me<br>👋 Hi there! I'm Ajinkya Tambade.<br>🎓 Final Year Undergrad || IT'24<br>🔭 I’m Currently Learning Full Stack Web Development<br>🌱 I’m Passionate About Learning New Technologies And Exploring Innovative Ideas.<br>💬 I'm Happy To Share My Knowledge.
+👩‍💻 About Me<br>👋 Hi there! I'm Ajinkya Tambade.<br>🎓IT'24<br>🔭 I’m Currently Learning Full Stack Web Development<br>🌱 I’m Passionate About Learning New Technologies And Exploring Innovative Ideas.<br>💬 I'm Happy To Share My Knowledge.
 
  
 ## 💻 Skills
 
 - 💻 **Languages:** C#, Java, JavaScript, HTML, CSS
-- ⚙️ **Backend:** .NET, ASP.NET, ASP.NET Core, .NET Core MVC
+- ⚙️ **Backend:** ASP.NET, ASP.NET Core, .NET Core MVC
 - 🌐 **Frontend:** Angular, React, JQuery
 - 📊 **Databases:** MySQL, SQL Server, MongoDB
 - 📜 **Version Control:** Github
