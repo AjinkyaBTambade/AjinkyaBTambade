@@ -6,7 +6,7 @@
 
 - 💻 **Languages:** C#, Java, JavaScript, HTML, CSS
 - ⚙️ **Backend:** ASP.NET, ASP.NET Core, .NET Core MVC
-- 🌐 **Frontend:** Angular, React, JQuery
+- 🌐 **Frontend:** Node,Express, React, JQuery
 - 📊 **Databases:** MySQL, SQL Server, MongoDB
 - 📜 **Version Control:** Github
 - 🛠️ **Tools:** Visual Studio, Visual Studio Code,POSTMAN
