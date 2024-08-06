@@ -4,7 +4,7 @@
  
 ## 💻 Skills
 
-- 💻 **Languages:** C#, Java, JavaScript, HTML, CSS
+- 💻 **Languages:** C#, JavaScript, HTML, CSS, Tailwind CSS
 - ⚙️ **Backend:** ASP.NET, ASP.NET Core, .NET Core MVC
 - 🌐 **Frontend:** React, Node, Express , JQuery
 - 📊 **Databases:** MySQL, SQL Server, MongoDB
